@@ -1,0 +1,21 @@
+.images {
+    width: 80%;
+    height: 500px;
+
+}
+
+.caro {
+    margin-left: 20%;
+
+
+
+
+}
+
+.caption {
+    color: rgb(255, 255, 255);
+    background-color: rgba(61, 95, 124, 0.575);
+    height: 120px;
+    box-shadow: rgb(14, 14, 14) 0px 0px 15px 5px;
+
+}

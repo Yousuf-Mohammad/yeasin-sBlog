@@ -1,0 +1,23 @@
+.foot {
+    background: url(../../assets/images/toppng.com-paint-brush-stroke-png-707x275.png) center no-repeat;
+    color: rgb(0, 0, 0);
+    height: 300px;
+    font-size: 25px;
+    margin-left: 22%;
+
+}
+
+.link {
+    text-decoration: none;
+    color: black
+}
+
+.writting {
+    background-color: rgba(250, 250, 250, 0.322);
+    width: 600px;
+    text-align: center;
+    margin-left: 28%;
+    box-shadow: 10px 10px 30px rgb(12, 11, 11);
+    border-radius: 50px;
+    padding: 10px;
+}
